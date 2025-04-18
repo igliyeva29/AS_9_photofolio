@@ -1,0 +1,46 @@
+.btn {
+    color: white;
+    padding: 10px 35px;
+    border-radius: 3px;
+    font-size: small;
+}
+
+.border-b {
+    border-bottom: 1px white;
+}
+
+.w-70 {
+    width: 70%;
+}
+
+.icon-image {
+    position: relative;
+    height: 80px;
+    width: 80px;
+    border: solid 3px black;
+    border-radius: 50%;
+    margin: 0 5px;
+}
+
+.font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.border-circle {
+    border-radius: 50%;
+}
+
+input {
+    border: solid 1px;
+}
+
+::placeholder {
+    padding-left: 15px;
+    font-size: small;
+    font-weight: bold;
+}
+
+.mx-6{
+    margin-left: 60px;
+    margin-right: 60px;
+}
